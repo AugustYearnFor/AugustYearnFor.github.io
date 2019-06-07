@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>August&#39;Blog</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://www.yearnfor.xyz/"/>
   <updated>2019-06-07T05:06:44.296Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://www.yearnfor.xyz/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>YearnFor</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/06/07/hello-world/"/>
-    <id>http://yoursite.com/2019/06/07/hello-world/</id>
+    <link href="https://www.yearnfor.xyz/2019/06/07/hello-world/"/>
+    <id>https://www.yearnfor.xyz/2019/06/07/hello-world/</id>
     <published>2019-06-07T05:06:44.295Z</published>
     <updated>2019-06-07T05:06:44.296Z</updated>
     
